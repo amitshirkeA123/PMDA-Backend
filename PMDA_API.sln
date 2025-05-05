@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMDA_API", "PMDA_API\PMDA_API.csproj", "{208FBB13-7AC3-46B8-9D3F-644E1DFA697B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AAEA60BC-66B5-4CBA-8567-8661E804ACCC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{208FBB13-7AC3-46B8-9D3F-644E1DFA697B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208FBB13-7AC3-46B8-9D3F-644E1DFA697B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208FBB13-7AC3-46B8-9D3F-644E1DFA697B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208FBB13-7AC3-46B8-9D3F-644E1DFA697B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96FE1A67-813D-482E-A2FC-40339667FAB9}
+	EndGlobalSection
+EndGlobal
